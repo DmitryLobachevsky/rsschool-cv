@@ -3,7 +3,7 @@
 [Linked.in](https://www.linkedin.com/feed/?trk=onboarding-landing)
 
 Contact information:
-*email:* lobachevskydmitro@gmail.comman  
+*email:* lobachevskydmitro@gmail.com 
 *cell phone*: +375 29 5072123
 *Career objective:* Junior front-end programmer/intern
 *Employment:* patrial
